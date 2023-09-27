@@ -1,0 +1,6 @@
+phase 1. Clean data
+phase 2. Save to DB
+phase 3. Generate board connected to db (web integrated) - descriptive analysis "the what"
+phase 4. Connect to chat gpt for diagnostic analysis "the why"
+phase 5. Predictive analysis
+phase 6. Prescriptive analysis
